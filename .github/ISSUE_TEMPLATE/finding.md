@@ -12,6 +12,6 @@ assignees: ''
 
 **Recommendation:**
 
-**[Project]:** 
+**LI.FI:** 
 
-**Spearbit:** 
+**Researcher:** 
